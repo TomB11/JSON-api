@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Joe Doe",
+        "specifications": {},
+        "position": "LEAD",
+        "project": ""
+    },
+    {
+        "id": 2,
+        "name": "Dave Smith",
+        "specifications": {},
+        "position": "FE-developer",
+        "project": ""
+    },
+    {
+        "id": 3,
+        "name": "Emily Rose",
+        "specifications": {},
+        "position": "BE-developer",
+        "project": ""
+    },
+    {
+        "id": 4,
+        "name": "Adam Floyd",
+        "specifications": {},
+        "position": "BE-developer",
+        "project": ""
+    },
+    {
+        "id": 5,
+        "name": "Peter Stastny",
+        "specifications": {},
+        "position": "Analytics",
+        "project": ""
+    },
+    {
+        "id": 6,
+        "name": "Tom House",
+        "specifications": {},
+        "position": "Designer",
+        "project": ""
+    },
+    {
+        "id": 7,
+        "name": "Mary Poorleyn",
+        "specifications": {},
+        "position": "Database",
+        "project": ""
+    }
+]
